@@ -1,0 +1,3 @@
+C:\Users\Eric\documents\visual studio 2010\Projects\Untrusted\Untrusted\UntrustedContent\obj\x86\Debug\UntrustedContent.contentprojResolveAssemblyReference.cache
+E:\Untrusted\Untrusted\UntrustedContent\obj\x86\Debug\UntrustedContent.contentprojResolveAssemblyReference.cache
+C:\Users\Azcryte\Desktop\Untrusted\Untrusted\UntrustedContent\obj\x86\Debug\UntrustedContent.contentprojResolveAssemblyReference.cache
